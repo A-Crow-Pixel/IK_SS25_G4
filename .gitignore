@@ -1,0 +1,35 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+
+# IDE 文件
+.idea/
+.vscode/
+
+# 可执行文件
+*.exe
+
+# PyInstaller、build 等
+build/
+dist/
+*.spec
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+*.csv
+
+# UI 生成缓存
+*.ui.py
+
+BACKUP/
