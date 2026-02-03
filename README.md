@@ -4,6 +4,15 @@
 
 Internetkommunikation_Project_Gruppe4 is a modern chat application developed with Python and PySide6, supporting multi-user real-time communication, group management, message translation, reminder functionality, and other features.
 
+## 👥 Team Members
+
+| | | |
+| :--- | :--- | :--- |
+| **Yanan Wang** | **Sizhe Cen** | **Rui Ying** |
+| **Jingsong Lin** | **Wenhao Cheng** | **Zewen Yang** |
+
+---
+
 ## 🚀 Quick Start
 
 ### Start Server
