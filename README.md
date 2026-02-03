@@ -12,7 +12,7 @@ Internetkommunikation_Project_Gruppe4 is a modern chat application developed wit
 | **Jingsong Lin** | **Wenhao Cheng** | **Zewen Yang** |
 
 ## 🏆 Award
-![Award Certificate](./docs/award.jpg)
+<img src="./docs/award.jpg" width="400px">
 
 ---
 
