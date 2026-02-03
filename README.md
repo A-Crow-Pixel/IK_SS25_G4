@@ -11,6 +11,9 @@ Internetkommunikation_Project_Gruppe4 is a modern chat application developed wit
 | **Yanan Wang** | **Sizhe Cen** | **Rui Ying** |
 | **Jingsong Lin** | **Wenhao Cheng** | **Zewen Yang** |
 
+## 🏆 Award
+![Award Certificate](./docs/award.jpg)
+
 ---
 
 ## 🚀 Quick Start
